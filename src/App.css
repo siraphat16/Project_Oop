@@ -1,0 +1,42 @@
+button{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.csv{
+  overflow-y: scroll;
+  height: 500px;
+  width: 50%;
+  margin: auto 0;
+
+}
+
+tr :hover{
+  text-decoration: underline;
+  background-color: rgb(95, 92, 248);
+}
+
+tr{
+  border-top: 1px solid;
+  background-color: rgb(255, 255, 255);
+  border-color: black;
+}
+
+.load{
+  margin-left: -120px;
+  margin-right: 120px;
+}
+
+canvas{
+  margin-top: -500px;
+  margin-left: 150px;
+  margin-right: 100px;
+}
+
+.Bar{
+  padding-top: 30px;
+  padding-bottom: 130px;
+  width: 50%;
+  float: right;
+  top: 0;
+}
+
